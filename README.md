@@ -1,7 +1,12 @@
 ## Oi eu sou o Gabriel Felix 👋
 
-- 🔭 Hoje eu trabalho como desenvolvedor front-end
-- 🌱 Estudando TypeScript
+- 🔭 Hoje trabalho como desenvolvedor front-end
+- 🌱 Estudando TypeScript e aprimorando minhas habilidades em React e Node.js
+- 💻 Apaixonado por criar interfaces web interativas e responsivas
+- ⚡ Gosto de explorar novas tecnologias e aprender práticas de desenvolvimento modernas
+- 📂 Meus projetos estão disponíveis no meu [portfólio](https://meu-portfolio-roan-zeta.vercel.app)
+- 📫 Contato: felix.gabriel2027@gmail.com
+
 
 <div>
   <a href="https://becons.ai/GabrielSilva077"></a>
