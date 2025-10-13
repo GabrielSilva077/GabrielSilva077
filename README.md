@@ -7,6 +7,7 @@
 - 📂 Meus projetos estão disponíveis no meu [portfólio](https://meu-portfolio-roan-zeta.vercel.app)
 - 📫 Contato: felix.gabriel2027@gmail.com
 
+<br></br>
 
 <div>
   <a href="https://becons.ai/GabrielSilva077"></a>
