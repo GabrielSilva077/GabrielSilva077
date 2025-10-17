@@ -1,4 +1,4 @@
-## Oi eu sou o Gabriel Felix 👋
+## Olá, eu sou o Gabriel Felix 👋
 
 - 🔭 Hoje trabalho como desenvolvedor front-end
 - 🌱 Estudando TypeScript e aprimorando minhas habilidades em React e Node.js
