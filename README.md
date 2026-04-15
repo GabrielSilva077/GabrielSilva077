@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva077&layout=compact&langs_count=16&theme=dracula" />
 </div> -->
 <br></br>
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
